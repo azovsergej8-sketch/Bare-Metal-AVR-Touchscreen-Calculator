@@ -1,4 +1,4 @@
-# temperature-sensor
+# Bare-Metal AVR Touchscreen Calculator
 Bare-metal C calculator for ATmega2560 featuring a custom ILI9341 SPI display driver and interrupt-driven I2C touch interface.
 A high-performance engineering calculator developed in **Pure C** for the ATmega2560 (Arduino Mega) microcontroller. This project is designed for the Wokwi simulation environment and operates without the Arduino framework or any high-level libraries.
 
