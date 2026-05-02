@@ -45,4 +45,4 @@ The system integrates an **Arduino Mega 2560** with an **ILI9341** capacitive to
 ---
 **Author:** Sergey Azov,
 
-Candidate for Intern FPGA Design roles at YADRO.
+Candidate for Intern FPGA Design role at YADRO.
